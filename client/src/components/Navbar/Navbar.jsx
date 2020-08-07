@@ -19,8 +19,8 @@ const Navbar = () => {
       </button>
       <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div className="navbar-nav">
-          <a className="nav-item nav-link divider active" href="about">
-            Home <span className="sr-only">(current)</span>
+          <a className="nav-item nav-link divider" href="about">
+            Home 
           </a>
           <a className="nav-item nav-link divider" href="portfolio">
             Portfolio
