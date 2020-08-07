@@ -42,7 +42,7 @@ const Portfolio = () => {
         />
         <ProjectCard
           imageName={workdayScheduler}
-          projectTitle="Work Day Schedule"
+          projectTitle="Work Day Scheduler"
           cardText="Web app that allows user to input activities for each hour of the day and save them to local storage so their tasks persists beyond page refresh. Uses moment.js and jQuery to dynamically generate date, time, and DOM elements for intuitive UI/UX."
           deployedLink="https://jameygronewald.github.io/workDaySchedule/"
           repoName="workDaySchedule"
