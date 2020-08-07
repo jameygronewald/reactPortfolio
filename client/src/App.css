@@ -1,0 +1,81 @@
+* {
+    font-family: 'Strait', sans-serif;
+}
+/* SETS BACKGROUND THEME FOR ALL PAGES */
+body {
+    background-image: url(./assets/appImages/forestBackground.png)  
+}
+/* STYLING FOR NAV BAR STARTS HERE */
+.topNavBar {
+    background-color: #222;
+    padding: 1rem 2rem;
+}
+
+#navbarBrand {
+    color: #f4f4f4;
+}
+
+.divider {
+    border-right: solid;
+    border-right-color: rgba(92, 92, 92, 0.267);
+    border-right-width: 2px;
+}
+
+/* STYLING FOR MAIN CONTENT TO KEEP IT SEPARATE FROM STICKY FOOTER */
+
+main {
+    margin-bottom: 100px;
+}
+/* STYLING FOR ALL CARDS ACROSS ALL PAGES */
+.card {
+    border: none;
+    background-color: rgba(211, 211, 211, 0.555);
+    box-shadow: 10px 10px 8px 5px #222;
+    padding: 0px;
+}
+/* STYLING FOR ALL HYPERLINKED TEXT ACROSS ALL PAGES */
+.hyperlink {
+    color: rgb(92, 14, 14);
+}
+/* STYLING FOR ABOUT PAGE STARTS HERE */
+.aboutCard {
+    margin-top: 130px;
+}
+
+#aboutHeader {
+    font-size: 20px;
+    color:#f4f4f4be;
+    background-color:#222;
+}
+
+#aboutImage {
+    max-width: 300px;
+    border-radius: 1.5em 4em;
+    padding: 1rem;
+}
+/* STYLING FOR PORTFOLIO PAGE STARTS HERE */
+#portfolioHeader {
+    margin: 100px 0px 0px 150px;
+    color: #222;
+}
+
+.projectCard {
+    margin: 1em;
+}
+
+.projectImage {
+    border-radius: .15em .15em .15em 2em;
+    border: solid 1em;
+}
+/* STYLING FOR CONTACT PAGE STARTS HERE */
+.contactContent {
+    margin-top: 100px;
+}
+
+#contactHeader {
+    color: #222
+}
+
+.errorMessage {
+    margin: 200px;
+}
