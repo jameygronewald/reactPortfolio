@@ -35,9 +35,9 @@ The homepage provides my professional statement. The portfolio page provides des
 
 ## Images
 
-![About Page](./src/assets/demoImages/about.png)
-![Portfolio Page](./src/assets/demoImages/portfolio.png)
-![Contact Page](./src/assets/demoImages/contact.png)
+![About Page](./client/src/assets/demoImages/about.png)
+![Portfolio Page](./client/src/assets/demoImages/portfolio.png)
+![Contact Page](./client/src/assets/demoImages/contact.png)
 
 ---
 
