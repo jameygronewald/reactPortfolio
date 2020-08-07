@@ -53,6 +53,11 @@ main {
     border-radius: 1.5em 4em;
     padding: 1rem;
 }
+
+.card-text {
+    margin-top: 10px;
+    margin-left: 20px;
+}
 /* STYLING FOR PORTFOLIO PAGE STARTS HERE */
 #portfolioHeader {
     margin: 100px 0px 0px 150px;
