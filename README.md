@@ -27,7 +27,7 @@ The homepage provides my professional statement. The portfolio page provides des
 ---
 
 ## Usage
-* Visit the deployed app: [Jamey Gronewald Portfolio](https://stark-reaches-68505.herokuapp.com/about)
+* Visit the deployed app: [Jamey Gronewald Portfolio](https://stark-reaches-68505.herokuapp.com)
 
 * Visit Github to track changes that were made or to clone the repo: [Github Repo](https://github.com/jameygronewald/reactPortfolio)
 
